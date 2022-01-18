@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oun945kim
+- 👋 Hi, I’m @kimoun945
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -11,6 +11,6 @@ Full name : kimoun945
 Email: KimOun945@Yahoo.com 
 Telephone: (+855)012255079 
 <!---
-oun945kim/oun945kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kimoun945/kimoun945 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
